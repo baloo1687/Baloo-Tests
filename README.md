@@ -1,2 +1,2 @@
-# BalooTests
+# Baloo Tests
 Tests tasks
