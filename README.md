@@ -1,2 +1,2 @@
-# balootest
-Test task for one of the company
+# BalooTests
+Tests tasks
